@@ -1,8 +1,26 @@
-#saveButton {
-	margin-left: 70px;
-}
-#calendarImage {
-	height: 400px;
-	width: 600px;
 
+#calendarImage {
+	max-height: 400px;
+	max-width: 600px;
+
+}
+#grantImage {
+	max-height: 663px;
+	max-width: 1100px;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+#scheduleForm{
+	max-height: 30%;
+	max-width: 30%;
+}
+/*#saveButton {
+	margin-left: 45.5%;
+	margin-right: 45.5%;
+}*/
+#usercontrolImage{
+	max-width: 70%;
+	max-height: 70%;
+	padding-left: 10px;
+	padding-right: 10px;
 }
